@@ -8,3 +8,12 @@ h2 {
   padding-left: 200px;
   font-size: 40px;
 }
+
+.navbar {
+  background-color: #f6f6f6;
+}
+
+.nav-link {
+  color: black;
+  font-weight: bolder;
+}
